@@ -1,2 +1,0 @@
-secrets_key.txt
-demo3.txt
